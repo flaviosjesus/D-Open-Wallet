@@ -13,4 +13,7 @@ The Open Wallet is an idea to have an digital wallet simple to use as our regula
 The first step is the begining of journey does not matter when start. (paraphrasing Lao-Tzu)
 
 =======
+
+Next Step: Create the journeys.
+
 # D-Open-Wallet
