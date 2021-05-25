@@ -1,5 +1,5 @@
 
-# D-open-wallet
+# D-Open-Wallet
 The Open Wallet is an idea to have an digital wallet simple to use as our regular wallet, following the basic principles.
 1) The wallet lies on your pocket / phone (ONLY) and work in the same maner as your regular wallet. 
 2) Different than regular wallet is cashless, meaning: 
