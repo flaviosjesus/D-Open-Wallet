@@ -11,5 +11,6 @@ The Open Wallet is an idea to have an digital wallet simple to use as our regula
 7) The main purpose is make east transactions (payments and receive money) regardless the type of "instrument" selected.
 
 The first step is the begining of journey does not matter when start. (paraphrasing Lao-Tzu)
+
 =======
 # D-Open-Wallet
