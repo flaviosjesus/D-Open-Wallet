@@ -14,6 +14,7 @@ The first step is the begining of journey does not matter when start. (paraphras
 
 =======
 
+Stage: Just beginning
 Next Step: Create the journeys.
 
 # D-Open-Wallet
