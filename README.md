@@ -4,8 +4,8 @@
 **Introduction**
 
 The Open Wallet is an idea to have an digital wallet simple to use as our regular wallet, following the basic principles.
-1) The wallet lies on your pocket / phone (ONLY) and work in the same maner as your regular wallet. 
-2) Different than regular wallet is cashless, meaning:   
+1) The Open Wallet "lives" on your pocket/phone (ONLY) and work in the same maner as your regular wallet. 
+2) Different than regular wallet is cashless:   
   a) if you loose it you dont loose your money (reinstall an configure)  
   b) the wallet "carry" credit card, debit card and digital wallets references. (general speakng).  
 4) The wallet only storage references from where your money/emoney is. (payment/receive)
