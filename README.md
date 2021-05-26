@@ -24,6 +24,6 @@ making the experience of payment/receive userfriendly regardles of the of the ty
 *The first step is the begining of journey does not matter when start. (paraphrasing Lao-Tzu)*
 
 Stage: Just beginning  
-Next Step: Create the journeys.
+Next Step: Define Product Strategy and Main Journeys.
 
 # D-Open-Wallet
