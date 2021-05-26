@@ -17,7 +17,7 @@ The Open Wallet is an idea to have an digital wallet simple to use as our regula
 
 Abrstract all financial transaction complexity related to crypto currency and "regular money"
 making the experience of payment/receive userfriendly regardles of the of the type of instrument selected as source 
-(origen of payment) and destination (destination of payment). For the D-Wallet user is just money in/out.
+(origen of payment) and destination (destination of payment). For D-OpenWallet user is just money in/out.
 
 =======
 
